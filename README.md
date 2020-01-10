@@ -32,6 +32,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lazariv/lazariv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Hello World!
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here are some links to my GitHub repositories
+
+[https://github.com/lazariv/easybuild-easyconfigs](https://github.com/lazariv/easybuild-easyconfigs)
+
+My RStudio Server Easybuild easyconfigs repository:
+
+[https://github.com/lazariv/easybuild-easyconfigs/tree/master/rstudio
+](https://github.com/lazariv/easybuild-easyconfigs/tree/master/rstudio)
