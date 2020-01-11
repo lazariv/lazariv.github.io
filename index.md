@@ -6,5 +6,4 @@ Here are some links to my GitHub repositories
 
 My RStudio Server Easybuild easyconfigs repository:
 
-[https://github.com/lazariv/easybuild-easyconfigs/tree/master/rstudio
-](https://github.com/lazariv/easybuild-easyconfigs/tree/master/rstudio)
+[https://github.com/lazariv/easybuild-easyconfigs/tree/master/rstudio](https://github.com/lazariv/easybuild-easyconfigs/tree/master/rstudio)
