@@ -1,3 +1,8 @@
+---
+layout: default
+title: Taras Lazariv
+---
+
 ### Hello World!
 
 Here are some links to my GitHub repositories
