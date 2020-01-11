@@ -7,3 +7,25 @@ name: "Taras Lazariv"
 description: "Landing page"
 url: "https://lazariv.github.io/"
 repository: "lazariv.github.io"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
