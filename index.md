@@ -1,3 +1,8 @@
+---
+layout: default
+title: CV
+---
+
 ### Hello World!
 
 Here are some links to my GitHub repositories
