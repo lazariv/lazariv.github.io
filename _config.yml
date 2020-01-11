@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+title: "Dresden Commute Challenge"
+locale: "de"
+name: "Taras Lazariv"
+
+description: "Landing page"
+url: "https://lazariv.github.io/"
+repository: "lazariv.github.io"
