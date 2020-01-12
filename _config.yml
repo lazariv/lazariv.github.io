@@ -4,9 +4,13 @@ theme: jekyll-theme-cayman
 locale: "de"
 name: "Taras Lazariv"
 
-description: "Landing page"
+#description: "Landing page"
 url: "https://lazariv.github.io/"
 repository: "lazariv.github.io"
+
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-156051452-1
 
 defaults:
   # _posts
