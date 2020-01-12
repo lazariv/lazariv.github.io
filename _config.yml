@@ -6,7 +6,7 @@ name: "Taras Lazariv"
 
 #description: "Landing page"
 url: "https://lazariv.github.io/"
-repository: "lazariv.github.io"
+#repository: "lazariv.github.io"
 
 plugins:
   - jekyll-seo-tag
