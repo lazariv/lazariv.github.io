@@ -10,6 +10,7 @@ repository: "lazariv.github.io"
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 google_analytics: UA-156051452-1
 
 defaults:
